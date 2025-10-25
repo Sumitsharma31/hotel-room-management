@@ -35,7 +35,7 @@ The core of the application is its real-time capability, powered by Firebase Fir
 
 The project follows a standard, component-based architecture which makes it scalable and easy to maintain.
 
-
+```
 /src
 |
 |-- /components
@@ -54,6 +54,7 @@ The project follows a standard, component-based architecture which makes it scal
 |
 |-- /firebase
 |   -- config.js         // Firebase initialization and configuration | |-- App.jsx               // Main application component with state and logic | -- main.jsx              // Entry point for Vite projects (or index.js)
+```
 
 
 ---
